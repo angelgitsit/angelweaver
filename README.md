@@ -1,2 +1,0 @@
-# angelweaver
-My personal website
